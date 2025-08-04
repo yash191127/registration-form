@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head >
+
+       <meta charset="UTF-8" />
+
+       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+       <link rel="stylesheet" href="Experiment.css">
+
+      </head>
+
+        <body>
+
+     <div class="dashboard">
+
+        <header>
+
+            <h1>Admin dashboard</h1>
+
+            <label  class="theme-toggle"
+
+            <iput type="checkbox" class="themeSwitch">
+
+                dark mode
+
+                </label>
+
+        </header>
+
+        <aside class="sidebar">
+
+            <ul>
+
+                <li><a href="#">Home</a></li>
+
+                <li><a href="#">Users</a></li>
+
+                <li><a href="#">Settings</a></li>
+
+            </ul>
+
+        </aside>
+
+        <main>
+
+            <p>This is the main content area.Add vhart table and report shere</p>
+
+        </main>
+
+        <footer>
+
+            <h1>@2023 admin panel</h1>
+
+        </footer>
+
+     </div>
+
+
+
+        </body>
+
+    
+
+</html>
